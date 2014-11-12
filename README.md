@@ -14,7 +14,7 @@ Using regex, created a search engine for either names or dates (recognized from 
 
 https://github.com/voidyknight/Questions
 
-Blogline
+###Blogline
 
 Leon, Miranda, Edison, Eric
 
@@ -24,7 +24,7 @@ Online blogging service with sqlite
 
 https://github.com/voidyknight/BlogEngine.git
 
-Octobear
+###Octobear
 
 Leon Frajmund, Jenny Baran
 
@@ -34,9 +34,9 @@ Uses APIs to allow user to search something & get related images (from google) a
 
 https://github.com/jybaran/octobear.git
 
-Mini Projects
+#Mini Projects
 
-login
+##login
 Leon Frajmund, Miranda Chaiken
 5/login/leon_miranda
 regexp
