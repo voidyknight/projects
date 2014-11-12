@@ -36,12 +36,12 @@ https://github.com/jybaran/octobear.git
 
 #Mini Projects
 
-##login
+###login
 Leon Frajmund, Miranda Chaiken
 5/login/leon_miranda
-regexp
+###regexp
 Leon, Nathaniel
 5/regexp/leon_nathaniel
-intro-proj 1
+###intro-proj 1
 Leon, Cindy
 5/intro-proj1/leon_cindy
