@@ -38,6 +38,7 @@ https://github.com/jybaran/octobear.git
 
 ###login
 Leon Frajmund, Miranda Chaiken
+
 5/login/leon_miranda
 ###regexp
 Leon, Nathaniel
@@ -45,4 +46,5 @@ Leon, Nathaniel
 5/regexp/leon_nathaniel
 ###intro-proj 1
 Leon, Cindy
+
 5/intro-proj1/leon_cindy
