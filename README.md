@@ -6,6 +6,14 @@ Period 5
 
 #Main Projects
 
+###Event Planner
+
+Leon, Miranda, Jenny, Sydney
+
+Plan and organize events
+
+https://github.com/mchaiken/Event-Narwhal
+
 ###Query Website
 
 Leon, Harrison, Anish, Edison
