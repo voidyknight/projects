@@ -1,5 +1,15 @@
 Leon Frajmund
 ========
+#Final Project
+
+#Trip Lemur
+
+Leon, Brian, Maria, Nathan
+
+Plan and organize a trip
+
+https://github.com/bsapozhnikov/TripLemur
+
 #Fall Semester
 
 Period 5
